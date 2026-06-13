@@ -1,3 +1,4 @@
 Time(Hours);EntityID;ObjectName;ProcessID;StepName;Action
-0;almacen;almacen;0.OnRunInitialized;[SetRow] BeforeCreatingEntities;Error setting table row reference for token 'almacen.Token.0' to row '0' in table 'probabilidad_productos'. Row is not in valid range '1' to '4'.
+1.8960765945274531;Cliente.1066;Model;195.recepcion_orden_BeforeProcessing;[Assign] Assign3;Data type mismatch in state variable assignment.
+1.8960765945274531;Cliente.1066;Model;195.recepcion_orden_BeforeProcessing;[Assign] Assign3;State variable 'Model.unidades_pendiente_total' is of type 'Number' but attempting to assign value '' that is of type 'Any'.
 
