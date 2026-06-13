@@ -1,4 +1,4 @@
 Time(Hours);EntityID;ObjectName;ProcessID;StepName;Action
-1.8960765945274531;Cliente.1066;Model;195.recepcion_orden_BeforeProcessing;[Assign] Assign3;Data type mismatch in state variable assignment.
-1.8960765945274531;Cliente.1066;Model;195.recepcion_orden_BeforeProcessing;[Assign] Assign3;State variable 'Model.unidades_pendiente_total' is of type 'Number' but attempting to assign value '' that is of type 'Any'.
+2.0352121172056212;Cliente.265;Model;147.recepcion_orden_BeforeProcessing;[Assign] Assign3;Data type mismatch in state variable assignment.
+2.0352121172056212;Cliente.265;Model;147.recepcion_orden_BeforeProcessing;[Assign] Assign3;State variable 'Model.unidades_pendiente_total' is of type 'Number' but attempting to assign value '' that is of type 'Any'.
 
