@@ -1,2 +1,0 @@
-# Keep the UTF-8 entry point reviewable as text after its UTF-16 conversion.
-README.md text eol=lf diff
